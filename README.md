@@ -12,9 +12,10 @@ The project goal is to leverage the power of data analysis to better understand 
 
 <p align="center">
 <img width="633" alt="1" src="https://user-images.githubusercontent.com/114117187/221392240-7db12fcc-5ac7-4982-baf9-7506871401ec.png">
-</p>
 
 <img width="628" alt="2" src="https://user-images.githubusercontent.com/114117187/221392245-b4c00316-ed28-4e8d-9121-c978de684a31.png">
 
 <img width="628" alt="3" src="https://user-images.githubusercontent.com/114117187/221392248-e5a3cda6-1381-4655-a9fe-863f9ace097a.png">
+  
+</p>  
 
